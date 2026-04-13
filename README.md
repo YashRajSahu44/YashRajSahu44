@@ -1,12 +1,12 @@
-# Hi, I'm Yash 👋
+# Hi, I'm Yash 
 
-> Developer in the making — building things with code, one problem at a time.
+> 18, Anime, Games, Draw, Code
 
 ---
 
 ## About Me
 
-- 🎓 Student passionate about programming and problem-solving
+- 🎓 1st yera student Pursuing Btech from LNCT Bhopal 
 - 🌱 Currently learning **JavaScript** and **Data Structures & Algorithms**
 - ☕ Writing clean code in **Java** and building for the web
 - 📍 Based in Bhopal, India
@@ -33,7 +33,7 @@
 ## DSA Progress
 
 ```
-Binary Search      ████████████░░░░  solving ✓
+Binary Search      ████████████████  Finished✓
 Arrays & Strings   ██████░░░░░░░░░░  in progress
 Linked Lists       ░░░░░░░░░░░░░░░░  up next
 ```
@@ -42,19 +42,10 @@ Linked Lists       ░░░░░░░░░░░░░░░░  up next
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=555555&bg_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff" height="150" />
-</p>
-
----
-
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
+[![LinkedIn](linkedin.com/in/yashraj-sahu-588825375)
+[![LeetCode](https://leetcode.com/u/LivingBetter/)
 
 ---
 
