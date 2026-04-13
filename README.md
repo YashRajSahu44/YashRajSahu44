@@ -44,9 +44,8 @@ Linked Lists       ░░░░░░░░░░░░░░░░  up next
 
 ## Let's Connect
 
-[![LinkedIn](linkedin.com/in/yashraj-sahu-588825375)
-[![LeetCode](https://leetcode.com/u/LivingBetter/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/yashraj-sahu-588825375)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/LivingBetter/)
 ---
 
 <p align="left">
