@@ -47,7 +47,3 @@ Linked Lists       ░░░░░░░░░░░░░░░░  up next
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/yashraj-sahu-588825375)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/LivingBetter/)
 ---
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=lightgrey" alt="Profile views" />
-</p>
