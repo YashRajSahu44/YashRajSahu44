@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🎓 1st year student Pursuing Btech from LNCT Bhopal 
+- 🎓 First-year B.Tech student pursuing engineering from LNCT Bhopal.
 - 🌱 Currently learning **JavaScript** and **Data Structures & Algorithms**
 - ☕ Writing clean code in **Java** and building for the web
 - 📍 Based in Bhopal, India
