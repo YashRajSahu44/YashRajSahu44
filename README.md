@@ -33,6 +33,8 @@
 
 ```
 Binary Search      ████████████████  Finished✓
+Sorting            ████████████████  Finished✓
+(Bubble,Selection,insertion,Cyclic)        
 Strings            ██████░░░░░░░░░░  in progress
 Recursion          ░░░░░░░░░░░░░░░░  up next
 ```
