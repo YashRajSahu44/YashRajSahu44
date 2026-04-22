@@ -6,10 +6,21 @@
 
 ## About Me
 
-- 🎓 First-year B.Tech student pursuing engineering from LNCT Bhopal.
-- 🌱 Currently learning **JavaScript** and **Data Structures & Algorithms**
-- ☕ Writing clean code in **Java** and building for the web
-- 📍 Based in Bhopal, India
+```bash
+$ whoami
+  yash — student developer, LNCT Bhopal (B.Tech Yr.1)
+
+$ currently --learning
+  JavaScript · Data Structures & Algorithms · Web Dev
+
+$ stack --current
+  Java · HTML · CSS · JavaScript
+
+$ location
+  Bhopal, India
+
+$ status
+  "Still compiling..."
 
 ---
 
