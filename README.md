@@ -34,8 +34,8 @@
 
 ```
 Binary Search      ████████████████  Finished✓
-Arrays & Strings   ██████░░░░░░░░░░  in progress
-Linked Lists       ░░░░░░░░░░░░░░░░  up next
+Strings            ██████░░░░░░░░░░  in progress
+Recursion          ░░░░░░░░░░░░░░░░  up next
 ```
 
 > Grinding LeetCode problems in Java — focused on building strong fundamentals.
@@ -45,5 +45,5 @@ Linked Lists       ░░░░░░░░░░░░░░░░  up next
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/yashraj-sahu-588825375)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/LivingBetter/)
+
 ---
