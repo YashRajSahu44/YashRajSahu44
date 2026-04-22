@@ -37,7 +37,7 @@
 | Sorting | ✅ Done | Bubble · Selection · Insertion · Cyclic |
 | Strings | 🔶 In Progress | — |
 | Recursion | ⬜ Up Next | — |
-
+![DSA Progress](./dsa-progress.svg)
 ![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java)
 ![LeetCode](https://img.shields.io/badge/Practice-LeetCode-yellow?style=flat-square&logo=leetcode)
 ---
