@@ -29,22 +29,17 @@
 
 ---
 
-## ⚔️ DSA Training Arc — Java
+## 📊 DSA Progress — Java
 
-> *"The code doesn't lie."*
+| Topic | Status | Subtopics |
+|-------|--------|-----------|
+| Binary Search | ✅ Done | — |
+| Sorting | ✅ Done | Bubble · Selection · Insertion · Cyclic |
+| Strings | 🔶 In Progress | — |
+| Recursion | ⬜ Up Next | — |
 
-| Arc | Status | Techniques |
-|-----|--------|-----------|
-| 🎯 Binary Search | ✅ Arc Complete | — |
-| 🌀 Sorting | ✅ Arc Complete | Bubble · Selection · Insertion · Cyclic |
-| 📜 Strings | 🔶 Training... | — |
-| 🔮 Recursion | 🔒 Up Next | — |
-
-![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=openjdk)
+![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java)
 ![LeetCode](https://img.shields.io/badge/Practice-LeetCode-yellow?style=flat-square&logo=leetcode)
-![Season](https://img.shields.io/badge/Season-1-blueviolet?style=flat-square)
-> Grinding LeetCode problems in Java — focused on building strong fundamentals.
-
 ---
 
 ## Let's Connect
