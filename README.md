@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./constellation.svg" width="100%" alt="constellation"/>
-</p>
 
 # Yashraj Sahu
 
