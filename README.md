@@ -6,6 +6,10 @@
 
 ## About Me
 
+<p align="center">
+  <img src="./constellation.svg" width="100%" alt="constellation"/>
+</p>
+
 ```bash
 $ whoami
   yash — student developer, LNCT Bhopal (B.Tech Yr.1)
