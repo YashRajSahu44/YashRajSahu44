@@ -43,8 +43,8 @@ $ status
 
 ![DSA](https://img.shields.io/badge/DSA-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
-<br><br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
+<br><br
 
 ---
 
