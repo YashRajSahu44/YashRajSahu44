@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./constellation.svg" width="100%" alt="constellation"/>
+</p>
+
 # Yashraj Sahu
 
 > 18, Anime, Games, Draw, Code
@@ -6,9 +10,7 @@
 
 ## About Me
 
-<p align="center">
-  <img src="./constellation.svg" width="100%" alt="constellation"/>
-</p>
+
 
 ```bash
 $ whoami
