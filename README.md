@@ -76,7 +76,7 @@ $ status
 
 ## Let's Connect
 
-[![LinkedIn](linkedin.com/in/yashraj-sahu-588825375)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/yashraj-sahu-588825375)
 
 ---
 
