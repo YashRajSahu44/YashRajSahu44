@@ -4,7 +4,8 @@
 
 > 18, Anime, Games, Draw, Code
 
----
+<br/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## About Me
 
@@ -27,14 +28,8 @@ $ status
   "Still compiling..."
 ```
 
----
-
-## 📊 DSA Progress — Java
-![DSA Progress](./dsa-progress.svg)
-
-![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java)
-![LeetCode](https://img.shields.io/badge/Practice-LeetCode-yellow?style=flat-square&logo=leetcode)
----
+<br/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ##  Tech Stack
 
@@ -58,7 +53,8 @@ $ status
 
 </div>
 
----
+<br/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ##  GitHub Stats
 
@@ -77,7 +73,8 @@ $ status
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/yashraj-sahu-588825375)
 
----
+<br/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
 
