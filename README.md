@@ -1,68 +1,43 @@
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Yash%20Raj%20Sahu&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=Developer%20in%20Training%20%7C%20DSA%20Grinder%20%7C%20Anime%20Enjoyer&descAlignY=58&descColor=ffffff&animation=fadeIn" />
+# Yashraj Sahu
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=First-Year+B.Tech+%40+LNCT+Bhopal;DSA+grinder+in+Java+%F0%9F%94%A5;Building+one+commit+at+a+time+%E2%9C%A8;Anime+%7C+Games+%7C+Drawing+%7C+Code;Always+learning%2C+never+stopping+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=yashrajsahu44&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/yashrajsahu44)
-[![GitHub followers](https://img.shields.io/github/followers/yashrajsahu44?color=00d4ff&style=flat-square&label=Followers)](https://github.com/yashrajsahu44)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yashraj-sahu-588825375)
-
-</div>
+> 18, Anime, Games, Draw, Code
 
 ---
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+## About Me
 
-## 👾 Who Am I?
 
-```java
-public class Yash {
 
-    String name      = "Yash Raj Sahu";
-    String college   = "LNCT Bhopal";
-    String year      = "1st Year B.Tech";
-    String location  = "Bhopal, India 🇮🇳";
+```bash
+$ whoami
+  yash — student developer, LNCT Bhopal (B.Tech Yr.1)
 
-    String[] languages  = {"Java", "JavaScript", "HTML", "CSS"};
-    String[] interests  = {"DSA", "Web Dev", "Competitive Programming"};
-    String[] hobbies    = {"Anime 🎌", "Games 🎮", "Drawing ✏️"};
-    String   currentFocus = "Mastering DSA + Building Projects";
+$ currently --learning
+  JavaScript · Data Structures & Algorithms · Web Dev
 
-    String motto() {
-        return "Code. Grind. Level Up. Repeat.";
-    }
-}
-```
+$ stack --current
+  Java · HTML · CSS · JavaScript
 
-<br clear="right"/>
+$ location
+  Bhopal, India
 
----
-
-## 🧩 DSA Progress
-
-> Grinding LeetCode in Java one problem at a time 💪
-
-| Topic | Status | Notes |
-|-------|--------|-------|
-| Arrays & Strings | 🔄 In Progress | Cyclic Sort done |
-| Binary Search | ✅ Done | LC 278, 540, 153, 875, 74... |
-| Sorting Algorithms | ✅ Done | Selection, Insertion, Bubble, Cyclic |
-| Recursion | ⏳ Up Next | — |
-| Linked Lists | ⏳ Queued | — |
-| Trees | ⏳ Queued | — |
-
-```
-DSA Progress  [████████░░░░░░░░░░░░]  40%  
-Web Dev       [██████░░░░░░░░░░░░░░]  30%  
-Projects      [████░░░░░░░░░░░░░░░░]  20%  
+$ status
+  "Still compiling..."
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 DSA Progress — Java
+![DSA Progress](./dsa-progress.svg)
+
+![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java)
+![LeetCode](https://img.shields.io/badge/Practice-LeetCode-yellow?style=flat-square&logo=leetcode)
+---
+
+##  Tech Stack
 
 <div align="center">
 
@@ -86,7 +61,7 @@ Projects      [████░░░░░░░░░░░░░░░░]  20
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -99,49 +74,9 @@ Projects      [████░░░░░░░░░░░░░░░░]  20
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajsahu44&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
 </div>
 
----
+## Let's Connect
 
-## 🎯 Currently
-
-- 🔨 Building my first JavaScript project
-- 📚 Grinding LeetCode (Binary Search → Recursion next)
-- 🏗️ Working on GitHub profile & portfolio
-- 🎌 Watching anime between coding sessions
-
----
-
-## 🎮 RPG Stats
-
-```
-╔══════════════════════════════════════════╗
-║          YASH RAJ SAHU  —  Level 1       ║
-╠══════════════════════════════════════════╣
-║  ⚔️  Class    : Developer-in-Training    ║
-║  🏫  Guild    : LNCT Bhopal             ║
-║  📍  Region   : Bhopal, India           ║
-╠══════════════════════════════════════════╣
-║  💻  Java        [██████████] MAX        ║
-║  🌐  HTML/CSS    [████████░░] 80%        ║
-║  ✨  JavaScript  [██████░░░░] 60%        ║
-║  🧠  DSA         [████░░░░░░] 40%        ║
-╠══════════════════════════════════════════╣
-║  🎯  Main Quest  : Conquer DSA           ║
-║  📌  Side Quest  : Build cool projects   ║
-║  ❤️  Weakness   : Starting new anime     ║
-╚══════════════════════════════════════════╝
-```
-
----
-
-## 🔗 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-yashrajsahu44-181717?style=for-the-badge&logo=github)](https://github.com/yashrajsahu44)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Raj%20Sahu-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yashraj-sahu-588825375)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Grinder-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/yashraj-sahu-588825375)
 
 ---
 
