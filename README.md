@@ -34,7 +34,10 @@ $ status
 
 # <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  Tᴇᴄʜ sᴛᴀᴄᴋ
 
-<div align="center">
+
+<img src="Skills_Animation_Dark.gif" align="left" width="400" />
+
+<div align="right">
 
 ### Languages
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
