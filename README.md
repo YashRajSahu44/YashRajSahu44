@@ -77,7 +77,7 @@ $ status
 
 
 
-[![LinkedIn]("https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white")](linkedin.com/in/yashraj-sahu-588825375)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/yashraj-sahu-588825375)
 
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
