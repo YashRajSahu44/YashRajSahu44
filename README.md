@@ -2,7 +2,7 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝘠𝘢𝘴𝘩𝘳𝘢𝘫 𝘴𝘢𝘩𝘶
 
-> 𝟏𝟖, 𝑨𝒏𝒊𝒎𝒆, 𝑮𝒂𝒎𝒆𝒔, 𝑫𝒓𝒂𝒘, 𝑪𝒐𝒅𝒆
+𝟏𝟖, 𝑨𝒏𝒊𝒎𝒆, 𝑮𝒂𝒎𝒆𝒔, 𝑫𝒓𝒂𝒘, 𝑪𝒐𝒅𝒆
 
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
