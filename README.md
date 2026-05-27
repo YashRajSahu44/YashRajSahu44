@@ -29,13 +29,13 @@ $ status
 ```
 
 <br/>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="assets/Skills_Animation_Dark.gif.gif" width="400" />
 
 
 # <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  Tᴇᴄʜ sᴛᴀᴄᴋ
 
 
-<img src="Skills_Animation_Dark.gif" align="left" width="400" />
+<img src="Skills_Animation_Dark.gif.gif" align="left" width="400" />
 
 <div align="right">
 
