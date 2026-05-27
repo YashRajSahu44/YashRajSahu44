@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.wallpapersafari.com/69/16/S8uBZe.gif)
 
-# Yashraj Sahu
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Yashraj sahu
 
 > 18, Anime, Games, Draw, Code
 
@@ -57,7 +57,7 @@ $ status
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-##  GitHub Stats
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊
 
 <div align="center">
 
