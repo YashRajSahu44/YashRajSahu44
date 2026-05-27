@@ -1,13 +1,13 @@
 ![MasterHead](https://cdn.wallpapersafari.com/69/16/S8uBZe.gif)
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Yashraj sahu
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝘠𝘢𝘴𝘩𝘳𝘢𝘫 𝘴𝘢𝘩𝘶
 
-> 18, Anime, Games, Draw, Code
+> 𝟏𝟖, 𝑨𝒏𝒊𝒎𝒆, 𝑮𝒂𝒎𝒆𝒔, 𝑫𝒓𝒂𝒘, 𝑪𝒐𝒅𝒆
 
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## About Me
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="25" height="25" /> 𝘈𝘣𝘰𝘶𝘵 𝘮𝘦
 
 
 
@@ -70,7 +70,9 @@ $ status
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajsahu44&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
 </div>
 
-## Let's Connect
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /> 𝘓𝘦𝘵'𝘴 𝘊𝘰𝘯𝘯𝘦𝘤𝘵
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/yashraj-sahu-588825375)
 
