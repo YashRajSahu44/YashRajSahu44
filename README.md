@@ -11,22 +11,15 @@
 
 
 
-```bash
-$ whoami
-  yash — student developer, LNCT Bhopal (B.Tech Yr.1)
-
-$ currently --learning
-  JavaScript · Data Structures & Algorithms · Web Dev
-
-$ stack --current
-  Java · HTML · CSS · JavaScript
-
-$ location
-  Bhopal, India
-
-$ status
-  "Still compiling..."
+```yaml
+Name: Yashraj Sahu
+Role: B.Tech Aiml student | Frontend dev 
+Location: Bhopal, Madhya Pradesh, India
+Languages: English | Hindi 
+Current Focus: Cp | BackendDevlopment | OpenSource
 ```
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br/>
 <img src="assets/Skills_Animation_Dark.gif.gif" width="400" />
@@ -72,6 +65,17 @@ $ status
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrajsahu44&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
 </div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shreyash18tiwari3001-create/shreyash18tiwari3001-create-shreyash18tiwari3001-create/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+---
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="40" /> 𝘓𝘦𝘵'𝘴 𝘊𝘰𝘯𝘯𝘦𝘤𝘵
 
