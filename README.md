@@ -68,6 +68,12 @@ Current Focus: Cp | BackendDevlopment | OpenSource
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+# <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashrajsahu44&bg_color=0d1117&color=FF0000&line=FF0000&point=FF0000&title_color=FF0000&grid=true)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## 🐍 Contribution Snake
 
 <div align="center">
