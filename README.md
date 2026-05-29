@@ -75,11 +75,8 @@ Current Focus: Cp | BackendDevlopment | OpenSource
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shreyash18tiwari3001-create/shreyash18tiwari3001-create-shreyash18tiwari3001-create/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
----
+![Snake animation](https://raw.githubusercontent.com/yashrajsahu44/yashrajsahu44/output/snake.svg#gh-light-mode-only)
+![Snake animation](https://raw.githubusercontent.com/yashrajsahu44/yashrajsahu44/output/snake-dark.svg#gh-dark-mode-only)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
