@@ -7,7 +7,7 @@
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="25" height="25" /> 𝘈𝘣𝘰𝘶𝘵 𝘮𝘦
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird"  width="40"/> Aʙᴏᴜᴛ Mᴇ
 
 
 
@@ -74,13 +74,13 @@ Current Focus: Cp | BackendDevlopment | OpenSource
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🐍 Contribution Snake
+## <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dragon.png" alt="Dragon"  width="40" /> Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Sɴᴀᴋᴇ</h1>
 ![Snake animation](https://raw.githubusercontent.com/yashrajsahu44/yashrajsahu44/output/snake.svg#gh-light-mode-only)
 ![Snake animation](https://raw.githubusercontent.com/yashrajsahu44/yashrajsahu44/output/snake-dark.svg#gh-dark-mode-only)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="40" /> 𝘓𝘦𝘵'𝘴 𝘊𝘰𝘯𝘯𝘦𝘤𝘵
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="40" /> Lᴇᴛ's Cᴏɴɴᴇᴄᴛ
 
 
 
