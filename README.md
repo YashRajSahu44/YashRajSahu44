@@ -1,4 +1,4 @@
-[![header](header.png)](yash-portfolio-mu-eight.vercel.app)
+[![header](header.png)](https://yash-portfolio-ngb2e6njy-yashrajsahu44s-projects.vercel.app)
   
 <samp>
   
@@ -6,5 +6,5 @@
 
 lnct'29 // frontend // java
 
-<a href="yash-portfolio-mu-eight.vercel.app"><strong>website</strong></a>  | <a href="in/yashraj-sahu-588825375"><strong>linkdin</strong></a>  | <a href="https://x.com/RedEyeCentipede"><strong>x</strong></a>  | <a href="mailto:yashsahu10th@gmail.com"><strong>email</strong></a>
+<a href="https://yash-portfolio-ngb2e6njy-yashrajsahu44s-projects.vercel.app"><strong>website</strong></a>  | <a href="https://in/yashraj-sahu-588825375"><strong>linkdin</strong></a>  | <a href="https://x.com/RedEyeCentipede"><strong>x</strong></a>  | <a href="mailto:yashsahu10th@gmail.com"><strong>email</strong></a>
 </samp>
