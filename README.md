@@ -1,5 +1,5 @@
 <a href="https://yashrajsahu44.github.io/portfolio/">
-  <img src="JoiningHands.jpeg" alt="MasterHead" width="100%">
+  <img src="JoiningHands.jpeg" alt="MasterHead" width="100%" height="200px">
 </a>
   
 <samp>
