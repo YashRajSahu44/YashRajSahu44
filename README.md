@@ -1,4 +1,6 @@
-[![MasterHead](https://cdn.wallpapersafari.com/69/16/S8uBZe.gif)](https://yashrajsahu44.github.io/portfolio/)
+<a href="https://yashrajsahu44.github.io/portfolio/">
+  <img src="JoiningHands.jpeg" alt="MasterHead" width="100%" height="300px"">
+</a>
   
 <samp>
   
