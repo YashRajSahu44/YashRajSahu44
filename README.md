@@ -1,4 +1,4 @@
-<a href="https://yashrajsahu44.github.io/portfolio/">
+<a href="yashraj-j40ofqk7x-yashrajsahu44s-projects.vercel.app">
   <img src="samurai.gif" alt="MasterHead" width="100%">
 </a>
   
