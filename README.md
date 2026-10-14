@@ -1,5 +1,5 @@
 <a href="yashraj-nu.vercel.app">
-  <img src="samurai.gif" alt="MasterHead" width="100%">
+  <img src="shnks.gif" alt="MasterHead" width="100%">
 </a>
   
 <samp>
